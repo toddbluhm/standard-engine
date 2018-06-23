@@ -15,7 +15,7 @@
   "devDependencies": {
     "babel-eslint": "^8.2.1",
     "cross-spawn": "^6.0.3",
-    "eslint": "*",
+    "eslint": "4.19.1",
     "eslint-config-standard": "*",
     "eslint-config-standard-jsx": "*",
     "eslint-plugin-import": "*",
