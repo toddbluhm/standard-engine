@@ -19,7 +19,7 @@
     "eslint-config-standard": "*",
     "eslint-config-standard-jsx": "*",
     "eslint-plugin-import": "*",
-    "eslint-plugin-node": "*",
+    "eslint-plugin-node": "10.0.0",
     "eslint-plugin-promise": "*",
     "eslint-plugin-react": "*",
     "eslint-plugin-standard": "*",
